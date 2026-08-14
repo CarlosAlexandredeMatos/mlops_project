@@ -56,7 +56,7 @@ The project requires Python 3.12+ and the packages informed in `pyproject.toml`.
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/CarlosAlexandredeMatos/mlops_project.git
 ```bash
 git clone <repository-url>
 cd mlops_project
