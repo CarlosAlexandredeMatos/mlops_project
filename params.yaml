@@ -1,11 +1,11 @@
 train:
-  learning_rate: 0.0001
+  learning_rate: 0.01
   hidden_layer_1_neurons: 64
   hidden_layer_2_neurons: 32
   dropout_rate: 0.3
-  epochs: 100
+  epochs: 20
   batch_size: 32
-  random_seed: 42
+  random_seed: 21
 
 preprocess_data:
   test_size: 0.2
