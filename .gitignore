@@ -9,3 +9,6 @@ models/model.keras
 metrics/training.json
 metrics/evaluation.json
 data/**/*.csv
+
+
+teste.py
