@@ -13,4 +13,6 @@ data/**/*.csv
 
 mlruns
 
+.env
+
 teste.py

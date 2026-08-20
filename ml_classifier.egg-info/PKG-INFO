@@ -12,3 +12,4 @@ Requires-Dist: PyYAML==6.0.2
 Requires-Dist: scikit-learn==1.6.1
 Requires-Dist: tensorflow==2.19.0
 Requires-Dist: mlflow==2.22.1
+Requires-Dist: python-dotenv==1.1.0
