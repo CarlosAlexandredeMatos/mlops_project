@@ -1,0 +1,6 @@
+artifact_location: file:///home/eletrica_haxiscarlos/PythonProjects/mlops_project/mlruns/269288395752498888
+creation_time: 1787242955526
+experiment_id: '269288395752498888'
+last_update_time: 1787242955526
+lifecycle_stage: active
+name: ml_classification

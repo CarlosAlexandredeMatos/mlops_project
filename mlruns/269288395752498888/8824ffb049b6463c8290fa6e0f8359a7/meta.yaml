@@ -1,0 +1,15 @@
+artifact_uri: file:///home/eletrica_haxiscarlos/PythonProjects/mlops_project/mlruns/269288395752498888/8824ffb049b6463c8290fa6e0f8359a7/artifacts
+end_time: 1787244924834
+entry_point_name: ''
+experiment_id: '269288395752498888'
+lifecycle_stage: active
+run_id: 8824ffb049b6463c8290fa6e0f8359a7
+run_name: thundering-slug-750
+run_uuid: 8824ffb049b6463c8290fa6e0f8359a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787244903463
+status: 3
+tags: []
+user_id: eletrica_haxiscarlos

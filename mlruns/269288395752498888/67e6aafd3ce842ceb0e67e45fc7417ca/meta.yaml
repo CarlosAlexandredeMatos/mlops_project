@@ -1,0 +1,15 @@
+artifact_uri: file:///home/eletrica_haxiscarlos/PythonProjects/mlops_project/mlruns/269288395752498888/67e6aafd3ce842ceb0e67e45fc7417ca/artifacts
+end_time: 1787242955623
+entry_point_name: ''
+experiment_id: '269288395752498888'
+lifecycle_stage: active
+run_id: 67e6aafd3ce842ceb0e67e45fc7417ca
+run_name: omniscient-smelt-949
+run_uuid: 67e6aafd3ce842ceb0e67e45fc7417ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787242955612
+status: 4
+tags: []
+user_id: eletrica_haxiscarlos
